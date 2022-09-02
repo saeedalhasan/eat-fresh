@@ -1,3 +1,48 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.order-food {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 5%;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.756);
+}
+
+.orange-color {
+    color: tomato;
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 80%;
+    padding-left: 5%;
+
+}
+
+.half-width p {
+    width: 70%;
+    margin-bottom: 40px;
+    color: rgb(97, 95, 95);
+}
+
+
+.button-color {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
 }
