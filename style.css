@@ -3,11 +3,12 @@ body {
     margin: 0%;
 }
 
-.order-food {
+.flexible-container {
     display: flex;
     padding-left: 10%;
     padding-right: 10%;
     margin-top: 5%;
+    margin-bottom: 100px;
 }
 
 h1 {
@@ -45,4 +46,20 @@ h1 {
     font-size: 15px;
     font-weight: 700;
     color: white;
+}
+
+#about {
+    margin-top: 80px;
+}
+
+#about p {
+    margin-bottom: 100px;
+}
+
+.about-me {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
 }
