@@ -73,8 +73,6 @@ h1 {
     height: 300px;
     margin: 0;
     border-radius: 15px;
-
-
 }
 
 .recipie-item {
@@ -86,6 +84,22 @@ h1 {
     padding-left: 30px;
     box-shadow: 10px 10px 20px 15px gray;
     border-radius: 20px;
+}
 
+.social-media {
+    display: flex;
+    width: 72%;
+    margin-left: 14%;
+    margin-bottom: 100px;
+    box-shadow: 10px 10px 20px 15px gray;
+    border-radius: 20px;
+
+
+}
+
+.social-follower {
+    margin-left: 10%;
+    margin-right: 100px;
+    padding-bottom: 50px;
 
 }
